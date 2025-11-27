@@ -17,7 +17,7 @@ namespace Program
 
             Console.WriteLine("Yes, I did this all by myself...Here is the result.");
             Console.WriteLine("My name is " + name + ",I am " + age + " years old.");
-            Console.WriteLine("Currently I have R " + cash + ".You are probably asking yourself how that is relevant...Well I just thought I could share.");
+            Console.WriteLine("Currently I have R " + cash + " in my pocket.You are probably asking yourself how that is relevant...Well I just thought I could share.");
             Console.WriteLine("Am i male ? " + gender + "\nThen what am I ?");
             Console.WriteLine("Here is my username: " + userName + name);
 
