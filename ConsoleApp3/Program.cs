@@ -22,7 +22,7 @@ namespace Program
             Console.WriteLine("Here is my username: " + userName + name);
 
             Console.ReadKey();
-
+            Console.Beep();
         }
     }
 
